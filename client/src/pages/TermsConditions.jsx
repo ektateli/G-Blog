@@ -9,7 +9,7 @@ const TermsConditions = () => {
             </h1>
                 
             <p className="mb-4">
-                Welcome to my Blog! By accessing or using our website [insert URL], you agree to be bound by these Terms and Conditions. If you do not agree with any part of these terms, you must not access the website.
+                Welcome to my Blog! By accessing or using our website, you agree to be bound by these Terms and Conditions. If you do not agree with any part of these terms, you must not access the website.
             </p>
             <ol className="list-decimal list-inside mb-4">
                 <li className="mb-2">
