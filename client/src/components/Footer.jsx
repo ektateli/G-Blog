@@ -11,7 +11,7 @@ const Footer = () => {
                         <h3 className="text-lg font-bold">About</h3>
                         <div>
                             <Link to="/about" target="_blank" rel="noopener noreferrer" className="block mt-1">Know about Us</Link>
-                            <Link to="http://localhost:5173" target="_blank" rel="noopener noreferrer" className="block mt-1"> Blog</Link>
+                            <Link to="https://g-blog-hk5f.vercel.app" target="_blank" rel="noopener noreferrer" className="block mt-1"> Blog</Link>
                         </div>
                     </div>
                     <div>
